@@ -6,8 +6,7 @@ Este repositorio contiene un análisis de componentes principales (PCA) aplicado
 
 ## Objetivo:
 Evaluar cómo los dos primeros componentes principales explican la varianza de los datos y realizar conclusiones sobre su utilidad para el agrupamiento y reducción dimensional.
-
-### análisis de componentes principales (PCA) sobre el dataset Iris.csv, determinando qué proporción de la varianza total de los datos puede ser explicada al utilizar únicamente los dos primeros componentes principales. 
+Análisis de componentes principales (PCA) sobre el dataset Iris.csv, determinando qué proporción de la varianza total de los datos puede ser explicada al utilizar únicamente los dos primeros componentes principales. 
 Este análisis permite evaluar si la reducción de dimensionalidad mantiene suficiente información para representar adecuadamente los datos.
 
 ### Cargar la base de datos:
